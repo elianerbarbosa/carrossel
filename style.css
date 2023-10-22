@@ -354,7 +354,7 @@ main .sobre{
 
  /* RESPONSIVO */
 
- @media(max-width: 992px) {
+ @media(max-width: 400px) {
     .section-div img {
         display: none;
     }
@@ -396,7 +396,7 @@ animation: sobeSecao .8s ease-in-out forwards;
  }
 }
 
- @media(max-width: 992px) {
+ @media(max-width: 400px) {
     .sobre img {
         grid-column: 1/-1;
         justify-self: center;
@@ -537,7 +537,7 @@ animation: sobeSecao .8s ease-in-out forwards;
     justify-content: space-around;
  }
 
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 400px) {
 }
 
 @media screen and (max-width: 400px) {
