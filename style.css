@@ -8,7 +8,7 @@
 @media screen and (max-width: 768px){
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 400px){
 
    header .navegacao-primaria li a {
        color: black;
@@ -540,7 +540,7 @@ animation: sobeSecao .8s ease-in-out forwards;
  @media screen and (max-width: 768px) {
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
 
    header .navegacao-primaria li a {
        color: black;
